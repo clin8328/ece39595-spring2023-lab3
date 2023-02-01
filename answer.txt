@@ -5,3 +5,16 @@ Some cons of agile development is limited documentation and poor resource planni
 2) scrum master leads agile development team and supports the product owner
 by providing relevant updates to other people. Product owners manage the backend of the
 product and tries to create the most gain value from the product.
+
+3) The first type of meeting is a daily standup meeting that is
+held the most frequently. They are short and to the point. First
+meeting of the workday and team should know what they should do today and 
+what they accomplished yesterday.
+
+Second type of meeting is the sprint review meeting where you and your team
+is able to demonstrate what you guys have developed to the product owner. After this
+meeting, you should have received feedbacks for your product.
+
+The third type of meeting is the product backlog refinement meeting and it occurs
+between sprints. This meeting is your chance to add details in your backlog. This
+will help prepare future sprint planning.
