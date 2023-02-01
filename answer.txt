@@ -1,2 +1,7 @@
-some pros of agile development is it is more flexible and has better communication.
+1) some pros of agile development is it is more flexible and has better communication.
 Some cons of agile development is limited documentation and poor resource planning.
+
+
+2) scrum master leads agile development team and supports the product owner
+by providing relevant updates to other people. Product owners manage the backend of the
+product and tries to create the most gain value from the product.
