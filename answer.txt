@@ -29,4 +29,4 @@ Bug is an issue that occurs during the development process or after the developm
 process that was not considered during development.
 
 Task issue types are when problems occur during any part of the sprint cycle.
-This could range from errors in testing or not meeting deadlines.
+This could range from errors in testing or not meeting deadlines. 
