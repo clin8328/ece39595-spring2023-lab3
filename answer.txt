@@ -18,3 +18,15 @@ meeting, you should have received feedbacks for your product.
 The third type of meeting is the product backlog refinement meeting and it occurs
 between sprints. This meeting is your chance to add details in your backlog. This
 will help prepare future sprint planning.
+
+4) Epic captures a large body of work. It is a huge story that can be broken down into
+smaller stories.
+
+A story is kind of like a software system requirement that can be expressed in just
+a few sentences.
+
+Bug is an issue that occurs during the development process or after the development
+process that was not considered during development.
+
+Task issue types are when problems occur during any part of the sprint cycle.
+This could range from errors in testing or not meeting deadlines.
